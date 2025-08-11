@@ -1,4 +1,4 @@
-# ✈️ Travel App Landing Page
+# ✈️ Hilink - Travel App Landing Page
 
 A sleek, mobile-first travel app landing page built with **Next.js**, **TypeScript**, and **Tailwind CSS**. Designed with modern UI trends and best practices to provide an engaging user experience across all devices.
 
